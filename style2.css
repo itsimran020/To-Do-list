@@ -1,0 +1,23 @@
+@media (max-width:600px) {
+    
+    .box{
+        max-width: 75vw;
+        margin-top: 10vh;
+    }
+    .box h2{
+        font-size: 3.2vh;
+    }
+    input{
+        font-size: 1.5vh;
+    }
+    #btn{
+        border-end-start-radius: 25px;
+        font-size: 1.5vh;
+    }
+    .btn2{
+        margin-left: 28%;
+    }
+    p{
+        font-size: 1.5vh;
+    }
+}
