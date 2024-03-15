@@ -77,7 +77,7 @@ input{
     cursor: pointer;
 }
 #list-container{
-overflow: scroll;
+overflow-y: scroll;
 max-height: 43vh;
 }
 ul{
